@@ -59,7 +59,6 @@ import urllib3
 import urllib.request
 from urllib.request import urlopen
 import urllib.parse
-import webtech
 
 
 def banner():
